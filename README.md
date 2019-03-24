@@ -9,6 +9,6 @@ Steps:-
 
 2)Check  if  support and design library is present in build.gradle(Module:app)
 
-3)Implement this as given  below:-
+A Gif image is shown below:-
 
 ![](datepicker.gif)
