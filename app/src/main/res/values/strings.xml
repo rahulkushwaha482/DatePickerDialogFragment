@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatePickerDialogFragment</string>
+    <string name="show_calender">Show Calender</string>
+    <string name="date_today">Date Today.</string>
+    <string name="ok_dob">Ok</string>
+    <string name="cancel_dob">Cancel</string>
+</resources>
