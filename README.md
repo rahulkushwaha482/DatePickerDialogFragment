@@ -8,3 +8,4 @@ Steps:-
 1) In manifest file add permission for Internet.
 2)Check  if  support and design library is present in build.gradle(Module:app)
 3)Implement this as given  below:-
+![](datepicker.gif)
